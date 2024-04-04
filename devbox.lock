@@ -1,0 +1,65 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "k3d@latest": {
+      "last_modified": "2024-03-22T11:26:23Z",
+      "resolved": "github:NixOS/nixpkgs/a3ed7406349a9335cb4c2a71369b697cecd9d351#k3d",
+      "source": "devbox-search",
+      "version": "5.6.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/gxl4301qzg1c0hxpxcrrjdpaskysx2q6-k3d-5.6.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/zdrr8ris3zbn9lblbvq5biabdfm4zxwc-k3d-5.6.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/0yb44x80b6sbk80is66haxaf8ipxizwl-k3d-5.6.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/cvfhyywrmmkz826v23w659wx99fw31fl-k3d-5.6.0"
+        }
+      }
+    },
+    "kubernetes-helm@latest": {
+      "last_modified": "2024-03-22T11:26:23Z",
+      "resolved": "github:NixOS/nixpkgs/a3ed7406349a9335cb4c2a71369b697cecd9d351#kubernetes-helm",
+      "source": "devbox-search",
+      "version": "3.14.3",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/nbz58p0ak92q3hqp39mfrvhj33svh3k4-kubernetes-helm-3.14.3"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/1f9184lbcv55mj1sqrrf022r8ln49kpz-kubernetes-helm-3.14.3"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/f2v22pzmbfypqlrniragqbkxmrkk3j4h-kubernetes-helm-3.14.3"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/0vf3gsyjrkxrkwygi3igidd4hzab8iq9-kubernetes-helm-3.14.3"
+        }
+      }
+    },
+    "vcluster@latest": {
+      "last_modified": "2024-03-25T21:25:22Z",
+      "resolved": "github:NixOS/nixpkgs/07262b18b97000d16a4bdb003418bd2fb067a932#vcluster",
+      "source": "devbox-search",
+      "version": "0.19.5",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/ymppxq2xydp9yhx8hrgnibvz2a1asrwz-vcluster-0.19.5"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/y2xnim5ajjg874730rpapmqzmnf4xzc1-vcluster-0.19.5"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/pjb3sacayh5jfsnkp69nx8494j6kvhi1-vcluster-0.19.5"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/czyzy4kby7rls04s2awc2dmv3p431jn0-vcluster-0.19.5"
+        }
+      }
+    }
+  }
+}
