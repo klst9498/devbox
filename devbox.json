@@ -2,7 +2,8 @@
   "packages": [
     "vcluster@latest",
     "k3d@latest",
-    "kubernetes-helm@latest"
+    "kubernetes-helm@latest",
+    "flux"
   ],
   "shell": {
     "init_hook": [
