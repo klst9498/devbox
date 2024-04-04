@@ -3,7 +3,7 @@
     "vcluster@latest",
     "k3d@latest",
     "kubernetes-helm@latest",
-    "flux"
+    "fluxcd"
   ],
   "shell": {
     "init_hook": [
